@@ -1,10 +1,18 @@
 [
     {
-        "Name": "chromium_third_party_ukey2",                   # 上游开源软件名全称
-        "License": ,         # 上游开源软件中包含的许可证信息
+        "Name": "chromium_third_party_vulkan_memory_allocator",                   # 上游开源软件名全称
+        "License": "MIT",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"     # 许可证所在文件路径
-        "Version Number": "0275885d8e6038c39b8a8ca55e75d1d4d1727f47",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/ukey2.git@0275885d8e6038c39b8a8ca55e75d1d4d1727f47",   # 上游软件包发布地址
-        "Description": "第三方软件ukey2"           # 开源软件功能描述
+        "Version Number": "ebe84bec02c041d28f902da0214bf442743fc907",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git@ebe84bec02c041d28f902da0214bf442743fc907",   # 上游软件包发布地址
+        "Description": "第三方软件vulkan_memory_allocator"           # 开源软件功能描述
+    },
+    {
+        "Name": "chromium_third_party_vulkan_memory_allocator",                   # 上游开源软件名全称
+        "License": "GPLStyleLicense",         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE"     # 许可证所在文件路径
+        "Version Number": "ebe84bec02c041d28f902da0214bf442743fc907",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git@ebe84bec02c041d28f902da0214bf442743fc907",   # 上游软件包发布地址
+        "Description": "第三方软件vulkan_memory_allocator"           # 开源软件功能描述
     }
 ]
