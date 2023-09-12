@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_vulkan_memory_allocator",                   # 上游开源软件名全称
+        "Name": "VulkanMemoryAllocator",                   # 上游开源软件名全称
         "License": "MIT",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"     # 许可证所在文件路径
         "Version Number": "ebe84bec02c041d28f902da0214bf442743fc907",
@@ -8,7 +8,7 @@
         "Description": "第三方软件vulkan_memory_allocator"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_vulkan_memory_allocator",                   # 上游开源软件名全称
+        "Name": "VulkanMemoryAllocator",                   # 上游开源软件名全称
         "License": "GPLStyleLicense",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"     # 许可证所在文件路径
         "Version Number": "ebe84bec02c041d28f902da0214bf442743fc907",
