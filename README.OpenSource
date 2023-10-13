@@ -1,11 +1,11 @@
 [
     {
-        "Name": "VulkanMemoryAllocator",                   # 上游开源软件名全称
-        "License": "MIT",         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE.txt"     # 许可证所在文件路径
+        "Name": "VulkanMemoryAllocator",                  
+        "License": "MIT",         
+        "License File": "LICENSE.txt"    
         "Version Number": "ebe84bec02c041d28f902da0214bf442743fc907",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git@ebe84bec02c041d28f902da0214bf442743fc907",   # 上游软件包发布地址
-        "Description": "第三方软件vulkan_memory_allocator"           # 开源软件功能描述
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git@ebe84bec02c041d28f902da0214bf442743fc907",  
+        "Description": "第三方软件vulkan_memory_allocator"           
     }
 ]
