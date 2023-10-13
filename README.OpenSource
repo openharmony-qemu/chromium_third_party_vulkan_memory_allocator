@@ -2,7 +2,7 @@
     {
         "Name": "VulkanMemoryAllocator",                  
         "License": "MIT",         
-        "License File": "LICENSE.txt"    
+        "License File": "LICENSE.txt",    
         "Version Number": "ebe84bec02c041d28f902da0214bf442743fc907",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git@ebe84bec02c041d28f902da0214bf442743fc907",  
