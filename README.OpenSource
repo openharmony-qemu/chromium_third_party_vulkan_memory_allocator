@@ -1,11 +1,11 @@
 [
     {
-        "Name": "VulkanMemoryAllocator",                  
-        "License": "MIT",         
-        "License File": "LICENSE.txt",    
+        "Name": "VulkanMemoryAllocator",
+        "License": "MIT",
+        "License File": "LICENSE.txt",
         "Version Number": "ebe84bec02c041d28f902da0214bf442743fc907",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git@ebe84bec02c041d28f902da0214bf442743fc907",  
-        "Description": "第三方软件vulkan_memory_allocator"           
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git@ebe84bec02c041d28f902da0214bf442743fc907",
+        "Description": "第三方软件vulkan_memory_allocator,是AMD提供的Vulkan内存分配管理器"
     }
 ]
